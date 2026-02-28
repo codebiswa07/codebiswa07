@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/0549d224-0821-4a14-815b-a2cd8a256bd9" width="100%" alt="image" ><br><br>
+<img src="https://github.com/user-attachments/assets/0549d224-0821-4a14-815b-a2cd8a256bd9" width="100%" alt="image" >
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_biswaprakash07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biswaprakash-sahoo-a0050a361) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codebiswaprakash07@gmail.com) 
 
