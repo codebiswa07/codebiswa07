@@ -1,4 +1,4 @@
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260112T171357Z&X-Amz-Expires=300&X-Amz-Signature=e9b4c340d0fd95728767a21aa407e542ae2249f1150bdbf4e72bcdeb8ab47335&X-Amz-SignedHeaders=host" width="900"> <br><br>
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)<br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_biswaprakash07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biswaprakash-sahoo-a0050a361) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codebiswaprakash07@gmail.com) 
 
